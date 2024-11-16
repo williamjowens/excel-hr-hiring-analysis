@@ -17,3 +17,5 @@ The project is organized as follows:
 - **functions_and_formulas/**: Provides some of the key functions and formulas used in the analysis, such as calculations for seasonal components, likelihood functions, and metrics like mean absolute percentage error (MAPE).
 
 - **hr_hiring_data_workbook.xlsm**: The main Excel workbook that consolidates all data, analysis, formulas, and forecasting results.
+
+- **statistical_tests/**: Contains images related to the step-by-step process for a two-proportion Z-test and a chi-square test of association.
